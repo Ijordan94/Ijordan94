@@ -1,6 +1,6 @@
 ## Hola 👋 Soy Ignacio Jordan Coria
 ## ¿Quién soy?
-Soy un desarrollador full stack con orientación al backend. Recientemente me gradué de Henry, donde también fui Teacher Assistant (TA), ayudando a otros estudiantes a desarrollar sus habilidades. Me destaco por mis fuertes soft skills, que me permiten colaborar de manera efectiva en equipos.
+Soy un desarrollador full stack bilingüe(Nivél C2 de inglés) con orientación al backend. Recientemente me gradué de Henry, donde también fui Teacher Assistant (TA), ayudando a otros estudiantes a desarrollar sus habilidades. Me destaco por mis fuertes soft skills, que me permiten colaborar de manera efectiva en equipos.
 
 ## ¿Qué hago?
 Me apasiona el desarrollo de software y busco constantemente aprender y aplicar mis conocimientos en proyectos desafiantes. Estoy enfocado en crear aplicaciones eficientes y escalables.
