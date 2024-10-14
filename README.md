@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hola 👋 Soy Ignacio Jordan Coria
+¿Quién soy?
+Soy un desarrollador full stack con orientación al backend. Recientemente me gradué de Henry, donde también fui Teacher Assistant (TA), ayudando a otros estudiantes a desarrollar sus habilidades. Me destaco por mis fuertes soft skills, que me permiten colaborar de manera efectiva en equipos.
 
-<!--
-**Ijordan94/Ijordan94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¿Qué hago?
+Me apasiona el desarrollo de software y busco constantemente aprender y aplicar mis conocimientos en proyectos desafiantes. Estoy enfocado en crear aplicaciones eficientes y escalables.
 
-Here are some ideas to get you started:
+¿A dónde me dirijo?
+Como recién graduado, estoy ansioso por crecer en el sector de desarrollo y adquirir la mayor cantidad de experiencia posible en diversos lenguajes de programación y tecnologías.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stack de tecnologías
+JavaScript
+TypeScript
+Node.js
+NestJS
+Express
+PostgreSQL
+Datos de contacto
+✉️ Puedes contactarme en: ignaciojordan17@gmail.com
